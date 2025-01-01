@@ -4,3 +4,5 @@ Stay engaged and practice consistently to make the most of this learning experie
 
 1) Let's start with Deep Learning framework, [TensorFlow/PyTorch](https://github.com/VarunSriTeja/WIDS--FaceCipher/tree/main/WEEK2/Tensorflow%20or%20pytorch) followed by concepts of [Neural Network](https://github.com/VarunSriTeja/WIDS--FaceCipher/tree/main/WEEK2/Tensorflow%20or%20pytorch).
 2) Let's explore [YOLOv8](https://github.com/VarunSriTeja/WIDS--FaceCipher/tree/main/WEEK2/Yolov8), focusing on its capabilities for object detection and classification.
+3) It's time to put our knowledge to the test. Let's tackle the [Assignments]() and practice our skills to reinforce our understanding.
+
