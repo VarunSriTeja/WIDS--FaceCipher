@@ -1,4 +1,4 @@
-Assignment 2
+#Assignment 2
 In this assignment, you need to classify images into 2 classes using simple Neural Network.
 
 Download the [Images](https://github.com/VarunSriTeja/WIDS--FaceCipher/blob/main/WEEK2/Assignments/Neural%20Network%20Assignment/homer_bart.zip) file.
