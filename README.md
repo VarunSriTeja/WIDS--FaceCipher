@@ -3,7 +3,7 @@ This project is focused on exploring and implementing various techniques in imag
 1. [WEEK 1](WEEK1) : Python Modules - Linear and Logistic Regression
 2. [WEEK 2](WEEK2) : TensorFlow/PyTorch - Neural Networks and YOLOv8
 3. [WEEK 3](WEEK3) : OpenCV and CNN for Image Processing
-4. [WEEK 4]() : Siamese Neural Networks - Face Recognition
+4. [WEEK 4](WEEK4) : Siamese Neural Networks - Face Recognition
 
 
 To ensure timely completion of assignments, starting each week as early as possible is crucial.
