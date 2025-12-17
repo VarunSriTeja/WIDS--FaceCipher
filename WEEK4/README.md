@@ -9,7 +9,7 @@ Base Image will be your own image and you are flexible to use any other image wh
 You will learn about new type of network called Siamese Neural Network
 
 SUBMISSION MODE
-Link of github Repo where ipynb file of the project is uploaded and a vedio showing that the base image does not match with other image but matches with different orientation of base image.
+Link of github Repo where ipynb file of the project is uploaded and a video showing that the base image does not match with other image but matches with different orientation of base image.
 
 ALL THE BEST !!!
 
