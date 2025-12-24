@@ -35,13 +35,13 @@ tf.keras will be used mainly
 
 # PyTorch
 
-1)[Install and Setup
+1)[Install and Setup](https://www.youtube.com/watch?v=2S1dgHpqCdk)
 Setup isn’t required for working in colab
 
-2[Pytorch Basics](https://www.youtube.com/watch?v=2S1dgHpqCdk)
+2[Pytorch Basics](https://www.youtube.com/watch?v=x9JiIFvlUwk)
 PyTorch basics involve creating tensors with constants or variables, performing operations like element-wise and matrix multiplication, reshaping tensors, computing dot products, applying broadcasting, and utilizing activation functions for neural network training and inference.
 
-3)[Neural Network](https://www.youtube.com/watch?v=x9JiIFvlUwk)
+3)[Neural Network](https://youtu.be/Jy4wM2X21u0?si=jekAYaD0OE1Xfwrm)
 Neural networks consist of interconnected neurons arranged in layers, processing input data through weights and activation functions to make predictions.
 
 4)[Model Saving and Loading](https://www.youtube.com/watch?v=g6kQl_EFn84)
